@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eduardosd-code.github.io/doctor7-blog/sitemap.xml
